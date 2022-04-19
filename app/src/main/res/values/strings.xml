@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Saidan-midT2</string>
+
+    <string-array name="city">
+        <item>riyadh</item>
+        <item>jeddah</item>
+        <item>hail</item>
+    </string-array>
+
+</resources>
